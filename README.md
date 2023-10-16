@@ -52,3 +52,13 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/YUniverse/YUniverse-Bold.ttf') format('truetype');
 }
 ```
+
+&nbsp;
+
+라이센스 본문
+
+```
+• Y유니버스체의 지식재산권은 |주|케이티에 있다. 
+• Y유니버스체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며, 폰트 사용자에 의한 재배포 또한 가능하다. 단, 폰트 파일의 수정 및 유료 판매는 금지한다. 
+• Y유니버스체는 인쇄, 웹, 영상, 임베딩, 패키지 등에 상업적 목적으로 사용이 가능하다. 단, BI/CI 용도로는 사용을 금지한다.
+```
