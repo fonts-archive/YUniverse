@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'YUniverse';
@@ -12,7 +12,7 @@ font-family: 'YUniverse';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/YUniverse/YUniverse.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/YUniverse/YUniverse.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -55,7 +55,7 @@ font-face
 
 &nbsp;
 
-라이센스 본문
+### 라이센스 본문
 
 ```
 • Y유니버스체의 지식재산권은 |주|케이티에 있다. 
